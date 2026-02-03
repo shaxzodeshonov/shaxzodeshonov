@@ -1,5 +1,18 @@
-## Hi there 👋
+### Hi there 👋 I'm Shaxzod
 
+I'm a Computer Science student studying in Tashkent, Uzbekistan.
+
+Over the past few years, I've focused on programming fundamentals, algorithms, and building real-world software. I'm especially interested in AI, systems, and practical tools that solve problems. These days, I'm focused on becoming a strong engineer and preparing for AI-related projects.
+
+#### 🔭 I'm currently working on ...
+Personal tools and automation scripts — small software that saves time and improves workflow.
+Machine learning experiments — learning models, math, and implementing things from scratch.
+
+#### Contacts
+
+Telegram: [t.me/shaxzd_e](https://t.me/shaxzd_e)
+
+Email: [shaxzod221007@gmail.com](mailto:shaxzod221007@gmail.com)
 <!--
 **shaxzodeshonov/shaxzodeshonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
