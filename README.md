@@ -12,7 +12,7 @@ Machine learning experiments — learning models, math, and implementing things 
 
 Telegram: [t.me/shaxzd_e](https://t.me/shaxzd_e)
 
-Email: [shaxzod221007@gmail.com](mailto:es.shaxzod@gmail.com)
+Email: [es.shaxzod@gmail.com](mailto:es.shaxzod@gmail.com)
 <!--
 **shaxzodeshonov/shaxzodeshonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
