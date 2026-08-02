@@ -5,8 +5,20 @@ I'm a Computer Science student studying in Tashkent, Uzbekistan.
 Over the past few years, I've focused on programming fundamentals, algorithms, and building real-world software. I'm especially interested in AI, systems, and practical tools that solve problems. These days, I'm focused on becoming a strong engineer and preparing for AI-related projects.
 
 #### 🔭 I'm currently working on ...
+
 Personal tools and automation scripts — small software that saves time and improves workflow.
 Machine learning experiments — learning models, math, and implementing things from scratch.
+
+#### 🛠 Projects
+
+**[thngstbuy](https://github.com/shaxzodeshonov/thngstbuy)** — a shared list for things you're thinking about buying. Every item holds a price and three notes: which model, where, and why. No accounts — the URL is the credential.
+`React 19 · TypeScript · Express 5 · SQLite` → [live](https://thngstbuy.vercel.app)
+
+**[removebg](https://github.com/shaxzodeshonov/removebg)** — self-hosted background removal. (soon will be deployed) No API keys, no cost per image and yeah.
+`FastAPI · BiRefNet (ONNX Runtime) · Next.js · Docker`
+
+**[C++ OOP Mastery](https://github.com/shaxzodeshonov/OOP)** — an interactive course for people stuck on C++ OOP. Built while revising for myself to get high Grade. (update: i got A0 from that course)
+`React · Vite` → [live](https://oop-pearl.vercel.app)
 
 #### Contacts
 
