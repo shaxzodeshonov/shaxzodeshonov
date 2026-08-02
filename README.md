@@ -18,7 +18,7 @@ Machine learning experiments — learning models, math, and implementing things 
 `FastAPI · BiRefNet (ONNX Runtime) · Next.js · Docker`
 
 **[C++ OOP Mastery](https://github.com/shaxzodeshonov/OOP)** — an interactive course for people stuck on C++ OOP. Built while revising for myself to get high Grade. (update: i got A0 from that course)
-`React · Vite` → [live](https://oop-pearl.vercel.app)
+`React · Vite` → [live](https://collegeoop.vercel.app)
 
 #### Contacts
 
