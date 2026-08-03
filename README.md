@@ -6,11 +6,6 @@ Over the past few years, I've focused on programming fundamentals, algorithms, a
 
 #### 🔭 I'm currently working on ...
 
-Personal tools and automation scripts — small software that saves time and improves workflow.
-Machine learning experiments — learning models, math, and implementing things from scratch.
-
-#### 🛠 Projects
-
 **[thngstbuy](https://github.com/shaxzodeshonov/thngstbuy)** — a shared list for things you're thinking about buying. Every item holds a price and three notes: which model, where, and why. No accounts — the URL is the credential.
 `React 19 · TypeScript · Express 5 · SQLite` → [live](https://thngstbuy.vercel.app)
 
@@ -19,6 +14,9 @@ Machine learning experiments — learning models, math, and implementing things 
 
 **[C++ OOP Mastery](https://github.com/shaxzodeshonov/OOP)** — an interactive course for people stuck on C++ OOP. Built while revising for myself to get high Grade. (update: i got A0 from that course)
 `React · Vite` → [live](https://collegeoop.vercel.app)
+
+Personal tools and automation scripts — small software that saves time and improves workflow.
+Machine learning experiments — learning models, math, and implementing things from scratch.
 
 #### Contacts
 
