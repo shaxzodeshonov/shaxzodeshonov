@@ -6,7 +6,8 @@ Over the past few years, I've focused on programming fundamentals, algorithms, a
 
 #### 🔭 I'm currently working on ...
 
-**[thngstbuy](https://github.com/shaxzodeshonov/thngstbuy)** — a shared list for things you're thinking about buying. Every item holds a price and three notes: which model, where, and why. No accounts — the URL is the credential.
+**<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/136d6fac-0f9a-4515-82b5-3b2f40332e02" />
+[thngstbuy](https://github.com/shaxzodeshonov/thngstbuy)** — a shared list for things you're thinking about buying. Every item holds a price and three notes: which model, where, and why. No accounts — the URL is the credential.
 `React 19 · TypeScript · Express 5 · SQLite` → [live](https://thngstbuy.vercel.app)
 
 **[removebg](https://github.com/shaxzodeshonov/removebg)** — self-hosted background removal. (soon will be deployed) No API keys, no cost per image and yeah.
