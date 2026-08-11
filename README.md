@@ -4,6 +4,8 @@ I'm a Computer Science student studying in Tashkent, Uzbekistan.
 
 Over the past few years, I've focused on programming fundamentals, algorithms, and building real-world software. I'm especially interested in AI, systems, and practical tools that solve problems. These days, I'm focused on becoming a strong engineer and preparing for AI-related projects.
 
+#### Website - [shxzd.dev](https://shxzd.dev/)
+
 #### 🔭 I'm currently working on ...
 
 **<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/136d6fac-0f9a-4515-82b5-3b2f40332e02" />
